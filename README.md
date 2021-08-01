@@ -15,9 +15,9 @@ Depois de apresentarmos pessoas tão diversas, realizamos a análise dos dados d
 
 ---
 ## ***Integrantes do grupo*** 
-[Juliana Simão](https://www.linkedin.com/in/juliana-simao/)
-[Vithor Ribeiro](https://www.linkedin.com/in/vithor-data/)
-[Patryck Harley](https://www.linkedin.com/in/patryckharley/)
+- [Juliana Simão](https://www.linkedin.com/in/juliana-simao/)
+- [Vithor Ribeiro](https://www.linkedin.com/in/vithor-data/)
+- [Patryck Harley](https://www.linkedin.com/in/patryckharley/)
 
 ---
 ## ***Dashboard*** 
