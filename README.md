@@ -11,7 +11,7 @@ Depois de apresentarmos pessoas tão diversas, realizamos a análise dos dados d
 
 ---
 ## ***Tableau Public***
-[Data Storytelling Case](https://public.tableau.com/app/profile/patryck.harley/viz/ProjetoFinalResiliaCaseIfood/dashboard?publish=yes)
+- [Data Storytelling Case](https://public.tableau.com/app/profile/patryck.harley/viz/ProjetoFinalResiliaCaseIfood/dashboard?publish=yes)
 
 ---
 ## ***Integrantes do grupo*** 
