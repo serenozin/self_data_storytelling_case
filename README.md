@@ -1,6 +1,7 @@
 # self_data_storytelling_case
 Projeto final da Turma VamoAI da Resilia | IFood Data Recruiting Case
 
+---
 ## ***Objetivo do projeto final*** 
 Construir um storytelling baseado nos nossos dados produzidos via aplicativos ou plataformas que mais usamos. 
 
@@ -19,7 +20,7 @@ Depois de apresentarmos pessoas tão diversas, realizamos a análise dos dados d
 [Patryck Harley](https://www.linkedin.com/in/patryckharley/)
 
 ---
-## ***Dashboard 
+## ***Dashboard*** 
 ![MARKDOWN](https://github.com/serenozin/self_data_storytelling_case/blob/main/dashboard_image.png)
 
 ---
