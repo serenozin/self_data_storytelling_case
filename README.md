@@ -7,7 +7,7 @@ Construir um storytelling baseado nos nossos dados produzidos via aplicativos ou
 
 ---
 ## ***Contexto*** 
-Depois de apresentarmos pessoas tão diversas, realizamos a análise dos dados das plataformas do navegador Chrome,Youtube,Kindle e Spotify dois três integrantes do grupo para buscar algo em comum. 
+Depois de apresentarmos pessoas tão diversas, realizamos a análise dos dados das plataformas do navegador Chrome,Youtube,Kindle e Spotify dos três integrantes do grupo para buscar algo em comum. 
 
 ---
 ## ***Tableau Public***
